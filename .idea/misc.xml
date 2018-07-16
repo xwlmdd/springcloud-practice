@@ -4,9 +4,14 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../springcloud-practice/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud-practice/springcloud-eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud-practice/springcloud-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-client-consume/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-consume/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-produce/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud-practice/zookeeper-discovery/pom.xml" />
       </list>
     </option>
   </component>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../springcloud-practice" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../springcloud-practice/springcloud-eureka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../springcloud-practice/springcloud-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud-practice/eureka-client-consume" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud-practice/eureka-client-produce" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud-practice/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud-practice/zookeeper-discovery" charset="UTF-8" />
   </component>
 </project>
